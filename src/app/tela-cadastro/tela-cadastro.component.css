@@ -1,0 +1,10 @@
+.teste{
+  align-items: center;
+
+}
+
+.btn{
+  margin-top: 20px;
+  justify-content: space-between;
+  margin: 0.5;
+}
